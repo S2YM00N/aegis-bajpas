@@ -1,0 +1,3 @@
+Jak crashowac serwery z fixmemem?
+Odlacz kabel eternet bo jest zbedny lub wylacz internet
+krok 3 odpal obs i nagraj odc o tytule "AEGIS BYPASS"
